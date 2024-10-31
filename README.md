@@ -33,27 +33,15 @@
 
 **<u>Switch</u>**
 
-    The Legend of Zelda: Breath of the Wild
-    The Legend of Zelda: Tears of the Kingdom
-    Super Mario 3D World
+    The Legend of Zelda
     Xenoblade series
-    Splatoon 2 & 3
 
 **<u>Steam</u>**
 
-    The Elder Scolls V: Skyrim
-    Civilization VI
-    Persona 5
-    Age of Empires IV
-    Apex Legends
     Titanfall 2
-    Portal
     Mount & Blade: Warband
     Muse Dash
-    Terraria
-    Plant vs Zombies
     Hollow Knight
-    ASTLIBRA
 
 **<u>Other platform</u>**
 
