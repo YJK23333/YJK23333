@@ -15,8 +15,6 @@
 
 ### `Python`
 
-    Numpy
-    Pandas
     Pytorch
     Deep Learning
     Machine Learning
@@ -30,26 +28,5 @@
 ## Hobby
 
 #### Games
-
-**<u>Switch</u>**
-
-    The Legend of Zelda
-    Xenoblade series
-
-**<u>Steam</u>**
-
-    Titanfall 2
-    Mount & Blade: Warband
-    Muse Dash
-    Hollow Knight
-
-**<u>Other platform</u>**
-
-    Rainbow Six: Siege
-    Assassin's Creed series
-    StarCraft II
-    League of Legends
-    Valorant
-
 
 #### Manga
